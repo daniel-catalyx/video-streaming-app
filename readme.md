@@ -1,0 +1,1 @@
+this is the framework for the loccitane video streaming app
